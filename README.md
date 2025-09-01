@@ -1,48 +1,23 @@
-<!-- Profile README -->
+<!-- Premium Portfolio Welcome (Static) -->
 
-<h1 align="center">Hi 👋, I'm Rafi</h1>
-<h3 align="center">🚀 Passionate Developer | 🌐 Open Source Contributor | 💡 Tech Explorer</h3>
-
----
-
-### 🔥 About Me  
-- 🌱 I’m currently learning **Python**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Web Dev | Bots | AI | Game Dev**  
-- ⚡ Fun fact: *I turn ☕ into clean code*  
-
----
-
-### 🚀 My Work Progress
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrafi0&show_icons=true&theme=tokyonight" alt="stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrafi0&theme=tokyonight" alt="streak" height="180px"/>
+  <!-- Typing-style Static Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=👑+Welcome+to+My+Profile;🌌+A+Universe+of+Code+and+Creativity;🚀+1+Year+of+Experience;⚡+Building+Cool+and+Expensive+Things;💎+Coding+With+Style" alt="Profile Intro" />
 </p>
 
----
-
-### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,python,java,github&perline=7" />
+  <!-- Static Name Header -->
+  <b><span style="font-size:28px; background: linear-gradient(90deg, #00F7FF, #8A2BE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">✨ Hello, I'm Rafi! ✨</span></b>
 </p>
 
----
+<hr>
 
-### ✨ Cool Animations  
+<!-- Static Gradient Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+profile!;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&width=800&reversal=true" width="80%">
 </p>
 
----
-
-### 🏆 Achievements & Badges
+<!-- Static Expensive Banner -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=⚡+Welcome+to+Rafi's+Portfolio+⚡&fontSize=32&fontAlignY=35&color=gradient&fontColor=ffffff" />
 </p>
