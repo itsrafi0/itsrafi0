@@ -19,5 +19,5 @@
 
 <!-- Static Expensive Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=⚡+Welcome+to+Rafi's+Portfolio+⚡&fontSize=32&fontAlignY=35&color=gradient&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=⚡+Welcome+to+ItsRafi's+Profile+⚡&fontSize=32&fontAlignY=35&color=gradient&fontColor=ffffff" />
 </p>
