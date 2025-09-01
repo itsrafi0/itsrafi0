@@ -6,7 +6,7 @@
 ---
 
 ### 🔥 About Me  
-- 🌱 I’m currently learning **[Your Current Skill/Tech]**  
+- 🌱 I’m currently learning **Python**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **Web Dev | Bots | AI | Game Dev**  
 - ⚡ Fun fact: *I turn ☕ into clean code*  
@@ -15,22 +15,15 @@
 
 ### 🚀 My Work Progress
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrafi0&show_icons=true&theme=tokyonight" alt="stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrafi0&theme=tokyonight" alt="streak" height="180px"/>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,vscode,figma&perline=6" />
-</p>
-
----
-
-### 📊 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,python,java,github&perline=7" />
 </p>
 
 ---
@@ -45,21 +38,6 @@
 ### 🏆 Achievements & Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-### 📫 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
